@@ -1,12 +1,12 @@
-# Civitas: Create
-Välkommen till Civitas: Create – ett teknikfokuserat modpack där du bygger avancerade system, utvecklar städer och spelar tillsammans med andra!
+# Civitas: Re-Created
+Välkommen till Civitas: Re-Created!
 
 ## Vad innehåller modpacket?
-Civitas: Create fokuserar på:
+Civitas: Re-Created fokuserar på:
 - ⚙️ Automation och maskiner (Create + addons)
-- 🏙️ Community-driven värld
-- 📈 Progression och utveckling (utveckla järnvägar och städer)
-- 🎮 Multiplayer-first upplevelse
+- 🏙️ Create Aeronautics + verklig fysik
+- 📈 Progression och utveckling (utveckla järnvägs-, vägfordons-, och luftfordonsnätverk)
+- 🎮 Multiplayer
 
 ## Systemkrav
 Rekommenderat: 6–8 GB RAM
@@ -19,5 +19,3 @@ Gå till [senaste versionen av modpacket](https://github.com/Team-Civitas/Civita
 När filen har laddats ner till din dator är det bara att dubbelklicka på den så att den börjar installeras i din launcher.
 
 När modpacket är färdiginstallerat är det bara att starta spelet. Servern är förkonfigurerad och dyker upp automatiskt i multiplayer-listan.
-
-_Innan du ansluter krävs det verifiering via vår Discord-server. Steg för hur man verifierar sig kommer skrivas här så fort servern öppnar för allmänheten. Om du redan är inbjuden till servern innan den offentliga versionen har släppts kan du ignorera detta stycke._
