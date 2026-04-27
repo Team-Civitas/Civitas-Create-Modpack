@@ -14,7 +14,7 @@ Rekommenderat: 6–8 GB RAM
 ## Hur laddar jag ner modpacket?
 För att ladda ner modpacket måste du först ha [Modrinths PC-app](https://modrinth.com/app) (eller en Minecraft-launcher som stödjer `.mrpack`-filer, _t.ex_ [Prism Launcher](https://prismlauncher.org/))
 
-Gå till [senaste versionen av modpacket](https://github.com/Team-Civitas/Civitas-Create-Modpack/releases/latest) och ladda ner den bifogade `.mrpack`-filen.
+Gå till [senaste versionen av modpacket](https://github.com/Team-Civitas/Civitas-ReCreated-Modpack/releases/latest) och ladda ner den bifogade `.mrpack`-filen.
 
 När filen har laddats ner till din dator är det bara att dubbelklicka på den så att den börjar installeras i din launcher.
 
